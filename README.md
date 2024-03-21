@@ -4,6 +4,9 @@ This repository contains code and resources for building a dashboard to track an
 
 **Key Features:**
 Visualize sales data by region, product category, and time period.
+
 Analyze customer demographics and purchasing patterns.
+
 Track key performance indicators (KPIs) such as revenue, profit margins, and conversion rates.
+
 Generate customizable reports and export data for further analysis.
